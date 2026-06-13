@@ -1,0 +1,31 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Pages source files (PDF versions are tracked instead)
+*.pages
